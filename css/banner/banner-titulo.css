@@ -1,0 +1,13 @@
+.banner__titulo{
+    color:#f7f1f1;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 6rem;
+    left:50%;
+    position: absolute;
+    text-align: center;
+    top:50%;
+    transform: translate(-50% , -50%);
+    text-shadow: 0 15px 15px rgb(204, 186, 24);
+    width: 100%;
+}
+

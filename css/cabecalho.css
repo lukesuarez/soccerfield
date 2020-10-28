@@ -1,0 +1,14 @@
+
+.cabecalho {
+    background: #1b5210;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    font-family: 'Staatliches', cursive;
+    margin: 1em 0 1em 1em;
+}
+
+

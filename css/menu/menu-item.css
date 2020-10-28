@@ -1,0 +1,11 @@
+.menu__item{
+    color:#ffffff;
+    text-decoration: none;
+    font-size:1.12em;
+    font-weight: bold;
+}
+
+.menu__item:hover{
+    transition:1000ms;
+    color:#849111;
+}
