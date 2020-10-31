@@ -1,0 +1,8 @@
+.quem-somos__imagem{
+
+    width: 280px;
+    height: 280px;
+    background: url(../../img/sobreNos/founder.jpg) center / cover;
+    border: #1b5210 solid 10px;
+    border-radius:60%;
+}

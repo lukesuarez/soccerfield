@@ -1,0 +1,10 @@
+.camisa {
+    background: #1b5210 ;
+    display: flex;
+    flex-direction: column;
+    margin-bottom:2rem;
+    padding:1em;
+    border-radius:8px;
+    color:white;
+    width: 30%;
+}

@@ -1,4 +1,11 @@
 .quem-somos {
     margin-top: 3em;
     text-align: center;
+    margin-left:10%;
+    margin-right: 10%;;
+}
+
+.quem-somos__caixa {
+    display: flex;
+    justify-content: space-between;
 }

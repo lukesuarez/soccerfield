@@ -1,3 +1,7 @@
 .quem-somos__texto {
-    font-weight: 100;
+   
+    font-size: 1.50em;
+    width: 80%;
+    margin: 150px 0 0 100px;
+    text-align: left;
 }

@@ -1,0 +1,13 @@
+.camisa__botao{
+    background:#dddfd3;
+    border: none;
+    border-radius: 4px;
+    padding: 0.75em;
+    font-weight: bold;
+}
+
+.camisa__botao:hover {
+    transition: 1000ms ease-in-out;
+    background:#849111;
+    cursor: pointer;
+}

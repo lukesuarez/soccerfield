@@ -1,6 +1,6 @@
-
 .cabecalho {
     background: #1b5210;
+    background: linear-gradient(90deg, rgba(27,82,16,1) 10%, rgba(42,79,33,1) 35%);
     color:white;
     display: flex;
     justify-content: space-between;
@@ -10,5 +10,6 @@
     font-family: 'Staatliches', cursive;
     margin: 1em 0 1em 1em;
 }
+
 
 
