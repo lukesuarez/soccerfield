@@ -1,4 +1,6 @@
-.quem-somos__titulo {
+.titulo {
+    text-align: center;
     font-family: 'Bebas Neue', cursive;
     font-size: 4em;
+    margin-top: 1.5em;
 }

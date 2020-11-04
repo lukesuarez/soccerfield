@@ -1,5 +1,6 @@
 .quem-somos__imagem{
-
+    margin-top: 2em;
+    margin-bottom: 2em;
     width: 280px;
     height: 280px;
     background: url(../../img/sobreNos/founder.jpg) center / cover;

@@ -1,11 +1,27 @@
 .quem-somos {
     margin-top: 3em;
     text-align: center;
-    margin-left:10%;
-    margin-right: 10%;;
+    
 }
 
 .quem-somos__caixa {
     display: flex;
-    justify-content: space-between;
+    
+}
+
+@media screen and (min-width:0){
+    .quem-somos__caixa{
+        flex-direction: column;
+    }
+    .quem-somos__imagem{
+        margin: 0 auto;
+    }
+    
+}
+
+@media screen and(min-width:768px){
+    .quem-somos__caixa{
+        flex-direction: row;
+        justify-content: space-between;
+    }
 }
